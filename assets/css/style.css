@@ -195,3 +195,212 @@
     width:60px;
     height:60px;
 }
+
+#nameLabel {
+    position:absolute;
+    left:20px;
+    top:100px;
+    color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:25px;
+}
+
+#name {
+    position:absolute;
+    left:20px;
+    top:130px;
+    height:40px;
+    width:95.6%;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;
+}
+
+#emailLabel {
+    position:absolute;
+    left:20px;
+    top:193px;
+    color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:25px;
+}
+
+#email {
+    position:absolute;
+    left:20px;
+    top:223px;
+    height:40px;
+    width:95.6%;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;
+}
+
+#messageLabel {
+    position:absolute;
+    left:20px;
+    top:286px;
+    color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:25px;
+}
+
+#message {
+    position:absolute;
+    left:20px;
+    top:316px;
+    height:220px;
+    width:95.6%;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;
+}
+
+#submit {
+    position:absolute;
+    left:20px;
+    top:566px;
+    height:80px;
+    width:200px;
+    color:white;
+    background-color:#4aaaa5;
+    font-size:25px;
+}
+
+#hangman {
+    position:absolute;
+    z-index:2;
+    left:20px;
+    top:100px;
+    width:240px;
+    height:260px;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;    
+}
+
+#hangmanText {
+    position:absolute;
+    z-index:3;
+    color:white;
+    background-color:#4aaaa5;
+    width:244px;
+    left:20px;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;
+    height:60px;
+    top:100px;
+}
+
+#rpg {
+    position:absolute;
+    z-index:2;
+    left:381px;
+    top:100px;
+    width:240px;
+    height:260px;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;    
+}
+
+#rpgText {
+    position:absolute;
+    z-index:3;
+    left:381px;
+    top:100px;
+    width:244px;
+    height:60px;
+    color:white;
+    background-color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;    
+}
+
+#trivia {
+    position:absolute;
+    z-index:2;
+    left:739px;
+    top:100px;
+    height:260px;
+    width:240px;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;        
+}
+
+#triviaText {
+    position:absolute;
+    z-index:3;
+    left:739px;
+    top:100px;
+    height:60px;
+    width:244px;
+    color:white;
+    background-color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;    
+}
+
+#rutgers {
+    position:absolute;
+    z-index:2;
+    left:20px;
+    top:385px;
+    height:260px;
+    width:240px;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;    
+}
+
+#rutgersText {
+    position:absolute;
+    z-index:3;
+    left:20px;
+    top:385px;
+    height:60px;
+    width:244px;
+    color:white;
+    background-color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;    
+}
+
+#rockpaperscissors {
+    position:absolute;
+    z-index:2;
+    left:381px;
+    top:385px;
+    height:260px;
+    width:240px;
+    border-style:solid;
+    border-color:#dddddd;
+    border-width:2px;
+}
+
+#rockpaperscissorsText {
+    position:absolute;
+    z-index:3;
+    left:381px;
+    top:385px;
+    height:60px;
+    width:244px;
+    color:white;
+    background-color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;    
+}
